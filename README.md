@@ -1,5 +1,7 @@
+<h1 align="Center">Hi 👋! </h1>
+
 ###
-  <font size="-1">This is smaller text.</font>
+ <font size="-1">My name is Irish Lince and I'm a 21-year-old BSIT (Information Technology) student currently studying at Centro Escolar University Makati. Originally from Pasay City, I am passionate about technology and strive to excel in the field of IT.</font>
 ###
 
 <img align="right" height="150" src="https://i.makeagif.com/media/10-13-2023/lUMTQI.mp4"  />
@@ -29,6 +31,6 @@
 
 <br clear="both">
 
-<h1 align="left">Hi 👋! My name is Irish Lince and I'm a 21-year-old BSIT (Information Technology) student currently studying at Centro Escolar University Makati. Originally from Pasay City, I am passionate about technology and strive to excel in the field of IT.</h1>
+<h1 align="left">Hi 👋! </h1>
 
 ###
