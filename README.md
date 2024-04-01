@@ -1,8 +1,8 @@
 <h1 align="Center">Hi 👋! </h1>
 
 ###
+<font size="+2">About me:</font>
 
-<h1 align="Left">About me:</h1>
 
  <div align="center">
   <font size="-1">
@@ -16,8 +16,8 @@
 
 ###
 
+<font size="+2">Programming Languages:</font>
 
-<h1 align="Left">Programming Languages:</h1>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" />
@@ -30,7 +30,8 @@
 
 ###
 
-<h1 align="Left">Contact me: </h1>
+<font size="+2">Contact me:</font>
+
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
