@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Irish Lince and I'm a 21-year-old BSIT (Information Technology) student currently studying at Centro Escolar University Makati. Originally from Pasay City, I am passionate about technology and strive to excel in the field of IT.</h2>
 
 ###
 
