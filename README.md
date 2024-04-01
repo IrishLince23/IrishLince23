@@ -65,7 +65,7 @@
 
 ###
 
-<h1><font size="+2">Contact me:</font></h1>
+<h1>Contact me:</h1>
 
 
 
