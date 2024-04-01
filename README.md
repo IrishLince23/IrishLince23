@@ -1,10 +1,4 @@
-###
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
-
-<br><br>
-
-###
 
 ## Hello, Nice to Meet You !! [🔝](#--gifs-for-readme--)
 
@@ -34,6 +28,14 @@
 <br><br>   
 
 ###
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
+<br><br>
+
+###
+
+###
 <font size="+2">About me:</font>
 
 
@@ -45,14 +47,12 @@
 
 ###
 
-- Happy Coder
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
 <br><br>
 
 ###
 
 <font size="+2">Programming Languages:</font>
-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" />
