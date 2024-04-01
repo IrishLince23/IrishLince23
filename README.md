@@ -1,5 +1,3 @@
-<h2 align="left">Hi 👋! My name is Irish Lince and I'm a 21-year-old BSIT (Information Technology) student currently studying at Centro Escolar University Makati. Originally from Pasay City, I am passionate about technology and strive to excel in the field of IT.</h2>
-
 ###
 
 <div align="center">
@@ -44,6 +42,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<h1 align="left">Hi 👋! My name is Irish Lince and I'm a 21-year-old BSIT (Information Technology) student currently studying at Centro Escolar University Makati. Originally from Pasay City, I am passionate about technology and strive to excel in the field of IT.</h1>
 
 ###
